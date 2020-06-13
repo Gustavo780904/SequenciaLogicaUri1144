@@ -7,7 +7,9 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
+		int N;
 		
+		N = sc.nextInt();
 		
 		
 		
